@@ -1,0 +1,4 @@
+ /*int v1;
+    srand(time(NULL));
+    v1 = rand() % 100;
+    cout << v1;*/

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zad1", "Zad1\Zad1.vcxproj", "{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Debug|x64.ActiveCfg = Debug|x64
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Debug|x64.Build.0 = Debug|x64
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Debug|x86.ActiveCfg = Debug|Win32
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Debug|x86.Build.0 = Debug|Win32
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Release|x64.ActiveCfg = Release|x64
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Release|x64.Build.0 = Release|x64
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Release|x86.ActiveCfg = Release|Win32
+		{5ECDBA73-D232-427E-8FF1-A6A4B7FF5413}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D40D0D-784B-4D1B-8255-C6949A97F4DF}
+	EndGlobalSection
+EndGlobal
