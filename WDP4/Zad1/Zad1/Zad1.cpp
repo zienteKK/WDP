@@ -3,13 +3,8 @@ using namespace std;
 
 int main()
 {
-  
-    //zad 1
-    int b[5];
+    int b[5] = { 1,2,3,4,5};
     for (int i = 0; i < 5; i++) {
-
-        b[i] = i + 1;
-        
-        cout << b[i] << " " <<;
+        cout << b[i] << " ";
     }
 }

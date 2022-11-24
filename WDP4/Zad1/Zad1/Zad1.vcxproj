@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e650bc5b-dc01-4b83-9149-1f39e711cc15}</ProjectGuid>
-    <RootNamespace>WDP4</RootNamespace>
+    <ProjectGuid>{14dab95b-812f-4c92-beec-b4dc7586c7c4}</ProjectGuid>
+    <RootNamespace>Zad1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="WDP4.cpp" />
+    <ClCompile Include="Zad1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
