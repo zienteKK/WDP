@@ -32,6 +32,7 @@ void zad4(int Arg1[], int Arg2[], int Arg3[], int size) {
 }
 
 int main() {
+ 
     int tablica1[20];
     int tablica2[20];
     int tablica3[20];
@@ -51,7 +52,6 @@ int main() {
         cout << tablica1[i] << " " << tablica2[i] << " " << tablica3[i] << " " << endl;
     }
 
-    
-
+    zad4(tablica1,tablica2,tablica3,size);
     
 }
